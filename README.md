@@ -4,24 +4,23 @@
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 Your CI/CD pipeline is Follows Above Process:
 
-Checkout source.
+You now have:
 
-Install dependencies.
+✅ Source control with GitHub
 
-Run tests.
+✅ GitHub Actions CI/CD
 
-Build Docker image.
+✅ Automated testing
 
-Push image to Docker Hub.
+✅ Docker image build
 
-SSH to EC2.
+✅ Docker Hub integration
 
-Pull the new image.
+✅ Automated staging deployment
 
-Replace the running container.
+✅ Manual approval gate before production
 
-Serve the application on port 80.
-
+✅ Automated production deployment
 
 ## Running the app
 
